@@ -3,6 +3,11 @@
 ### Overview
 ### Prerequisites
 
+```
+MySQL 8.0.30
+
+```
+
 
 ### Employee table overview.
 ### Department table overview.
